@@ -61,6 +61,7 @@ sections:
     title: Recent work
     posts:
       - content/pages/blog/post-three.md
+      - content/pages/blog/postlayout-npmadjn8s.md
       - content/pages/blog/postlayout-md3lh3skz.md
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
