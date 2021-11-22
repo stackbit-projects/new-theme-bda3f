@@ -5,7 +5,7 @@ date: '2021-10-10'
 excerpt: Editorial
 featuredImage:
   type: ImageBlock
-  url: /images/work-book-1-thumb.jpeg
+  url: /favicon.svg
   altText: Post Image
 bottomSections:
   - elementId: ''
