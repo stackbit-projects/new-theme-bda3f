@@ -1,7 +1,7 @@
 ---
 title: Nature Mockup
 layout: PostLayout
-date: '2021-10-05'
+date: '2021-10-10'
 excerpt: Editorial Design
 featuredImage:
   type: ImageBlock
