@@ -2,7 +2,7 @@
 title: Nature Mockup
 layout: PostLayout
 date: '2021-10-10'
-excerpt: Editorial Design
+excerpt: Editorial
 featuredImage:
   type: ImageBlock
   url: /images/work-book-1-thumb.jpeg
